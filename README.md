@@ -2,7 +2,9 @@
 
 📁 Folder Structure
 portfolio/
+
 ├── public/
+
 │   └── vite.svg
 ├── src/
 │   ├── components/
