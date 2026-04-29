@@ -1,33 +1,5 @@
 # Portfolio
 
-📁 Folder Structure
-portfolio/
-
-├── public/│
-└── vite.svg
-├── src/
-│   ├── components/
-│   │   ├── Loader.jsx
-│   │   ├── Navbar.jsx
-│   │   ├── Hero.jsx
-│   │   ├── About.jsx
-│   │   ├── Projects.jsx
-│   │   ├── Skills.jsx
-│   │   ├── Interactive3D.jsx
-│   │   ├── Contact.jsx
-│   │   ├── Footer.jsx
-│   │   ├── CustomCursor.jsx
-│   │   └── ParticleBackground.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-├── tailwind.config.js
-├── postcss.config.js
-└── vite.config.js
-
-
 🛠 Setup Instructions
 
 # 1. Create project
