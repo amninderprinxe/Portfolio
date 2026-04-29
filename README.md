@@ -3,9 +3,8 @@
 📁 Folder Structure
 portfolio/
 
-├── public/
-
-│   └── vite.svg
+├── public/│
+└── vite.svg
 ├── src/
 │   ├── components/
 │   │   ├── Loader.jsx
